@@ -1,6 +1,6 @@
 # Project Name
 
-Morse Code Message
+Decode Morse Code
 
 # Description the project.
 
@@ -14,13 +14,13 @@ Simple Decoder for Morse messages.
 
 ## Getting Started
 
-- Clone this repo <https://github.com/Johnadibe/decode_morse_code.git>
+- Clone this repo <https://github.com/hanaSabih/morse-code.git>
 
   ```bash
-  git clone https://github.com/Johnadibe/decode_morse_code.git
+  git clone https://github.com/hanaSabih/morse-code.git
   ```
 
-- Navigate to decode_morse_code folder/directory
+- Navigate to morse-code folder/directory
 
   ```bash
   cd decode_morse_feature
@@ -28,25 +28,22 @@ Simple Decoder for Morse messages.
 
 - On the command line, at the project's root, run `bundle install` to install app dependencies
 
-- Next, run `ruby decode_morse_code.rb` which will run the app in the development mode.
+- Next, run `ruby morse-code.rb` which will run the app in the development mode.
 
 ## Authors
 
-👤 **John Adibe**
+👤 **Hana Sabih**
 
-- GitHub: [@Johnadibe](https://github.com/Johnadibe)
-- Twitter: [@JohnAdibe2](https://twitter.com/JohnAdibe2)
-- LinkedIn: [@John Adibe](https://www.linkedin.com/in/john-adibe/)
+- GitHub: [@hanaSabih](https://github.com/hanaSabih)
 
-👤 **Ram Kumar Karuppusamy**
+👤 **Eric Umeohabike**
 
-- GitHub: [@ram1117](https://github.com/ram1117)
-- LinkedIn: [@John Adibe](https://www.linkedin.com/in/ram-kumar-karuppusamy/)
+- GitHub: [@eric2umeh](https://github.com/eric2umeh)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-thanks: [issue-link](https://github.com/Johnadibe/decode_morse_code/issues)
+thanks: [issue-link](https://github.com/hanaSabih/morse-code/issues)
 
 ## Show your support
 
@@ -55,10 +52,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
-- LazyCoders
-- Coding Partners
-- Inspiration
-- etc
 
 ## 📝 License
 
